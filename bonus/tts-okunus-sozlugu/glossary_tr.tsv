@@ -1,4 +1,4 @@
-# Türkçe TTS okunuş sözlüğü (181 terim) · Redirhan Studio · MIT lisansı
+# Türkçe TTS okunuş sözlüğü (181 terim) · Redirhan Labs · MIT lisansı
 # Sütunlar TAB ile ayrılır: yazılış	okunuş	tür	alan	alternatif okunuşlar (| ile)	whisper'da kabul edilenler (| ile)
 # tür: abbr = kısaltma (büyük/küçük harf birebir, ek kesme işaretiyle kalır) · name = özel ad · term = terim · unit = birim (sayıdan sonra) · translate = Türkçesiyle oku
 # Ekranda yazılış kalır; TTS motoruna sadece okunuş gider. Yeni terim: satır ekle, respell.py ile dene.

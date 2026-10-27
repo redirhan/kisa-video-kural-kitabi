@@ -4,7 +4,7 @@ Reels, Shorts ve TikTok kurgusu için **ölçülmüş** kurallar. "Bence böyle 
 kısa videonun ölçümünden ve 12 kurgu eğitiminin ortak noktalarından çıkan sayılar. Claude Code'a
 yüklediğinde, kısa video planlarken, kurarken ya da incelerken bu kurallarla çalışır.
 
-Redirhan Studio tarafından hazırlandı. Ücretsiz, MIT lisanslı.
+Redirhan Labs tarafından hazırlandı. Ücretsiz, MIT lisanslı.
 
 ## İçinde ne var
 

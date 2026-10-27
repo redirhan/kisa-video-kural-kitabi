@@ -4,7 +4,7 @@
 measuring 52 viral short videos (Turkish and English) and from what 12 editing tutorials agree on.
 Once installed, Claude Code uses them whenever it plans, builds or reviews a short-form edit.
 
-Made by Redirhan Studio. Free, MIT licence.
+Made by Redirhan Labs. Free, MIT licence.
 
 ## What's inside
 
