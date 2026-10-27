@@ -1,0 +1,185 @@
+# Türkçe TTS okunuş sözlüğü (181 terim) · Redirhan Studio · MIT lisansı
+# Sütunlar TAB ile ayrılır: yazılış	okunuş	tür	alan	alternatif okunuşlar (| ile)	whisper'da kabul edilenler (| ile)
+# tür: abbr = kısaltma (büyük/küçük harf birebir, ek kesme işaretiyle kalır) · name = özel ad · term = terim · unit = birim (sayıdan sonra) · translate = Türkçesiyle oku
+# Ekranda yazılış kalır; TTS motoruna sadece okunuş gider. Yeni terim: satır ekle, respell.py ile dene.
+DNA	de ne a	abbr	bio	dee ne a	dna|de ne a|dena
+RNA	re ne a	abbr	bio	er ne a	rna|re ne a
+mRNA	em re ne a	abbr	bio	mesajcı re ne a	mrna|em re ne a|m rna
+tRNA	te re ne a	abbr	bio	taşıyıcı re ne a	trna|te re ne a
+rRNA	re re ne a	abbr	bio	ribozomal re ne a	rrna|re re ne a
+cDNA	ce de ne a	abbr	bio		cdna|ce de ne a
+ATP	a te pe	abbr	bio		atp|a te pe
+ADP	a de pe	abbr	bio		adp|a de pe
+NADH	nad ha	abbr	bio	ne a de ha	nadh|nad ha
+NADPH	nad pe ha	abbr	bio		nadph
+FADH2	fad ha iki	abbr	bio		fadh2|fad ha iki
+PCR	pe ce re	abbr	bio		pcr|pe ce re
+qPCR	kü pe ce re	abbr	bio		qpcr
+GFP	ge fe pe	abbr	bio		gfp
+HIV	ha i ve	abbr	health		hiv|ha i ve
+AIDS	eyds	abbr	health	a i de se	aids|eyds
+COVID-19	kovid on dokuz	name	health		covid 19|kovid 19|covid
+SARS-CoV-2	sars kov iki	name	health		sars cov 2|sars kov 2
+ELISA	eliza	abbr	bio		elisa|eliza
+SNP	snip	abbr	bio	se ne pe	snp|snip
+NGS	ne ge se	abbr	bio		ngs
+BLAST	blast	abbr	bio		blast
+NCBI	ne ce be i	abbr	bio		ncbi
+PDB	pe de be	abbr	bio		pdb
+CRISPR	krispır	abbr	bio	krisper|krispir	crispr|krispır|krisper
+CRISPR-Cas9	krispır kas dokuz	name	bio	krisper kas dokuz	crispr cas9|crispr cas 9|krispır kas dokuz
+Cas9	kas dokuz	name	bio	kas nayn	cas9|cas 9|kas dokuz|kas 9
+Cas	kas	name	bio		cas|kas
+PAM	pam	abbr	bio	pe a me	pam
+AlphaFold	alfafold	name	bio		alphafold|alfafold
+Streptococcus pyogenes	streptokokus piyojenes	name	bio		streptococcus pyogenes|streptokokus
+Streptococcus	streptokokus	name	bio		streptococcus|streptokokus
+E. coli	e koli	name	bio		e coli|e koli|ekoli
+Escherichia coli	eşerişya koli	name	bio		escherichia coli
+Staphylococcus	stafilokokus	name	bio		staphylococcus|stafilokokus
+in vitro	in vitro	term	bio		in vitro
+in vivo	in vivo	term	bio		in vivo
+ex vivo	eks vivo	term	bio		ex vivo|eks vivo
+knockout	nakavt	translate	bio		knockout|nakavt
+off-target	hedef dışı	translate	bio		off target|hedef dışı
+Western blot	vestırn blot	name	bio		western blot
+Golgi	golci	name	bio		golgi|golci
+Krebs	kreps	name	bio		krebs|kreps
+Calvin	kalvin	name	bio		calvin|kalvin
+Hardy-Weinberg	hardi vaynberg	name	bio		hardy weinberg
+Mendel	mendel	name	bio		mendel
+Darwin	darvin	name	bio		darwin|darvin
+Lamarck	lamark	name	bio		lamarck|lamark
+Watson	vatsın	name	bio		watson
+Crick	krik	name	bio		crick|krik
+Rosalind Franklin	rozalind frenklin	name	bio		rosalind franklin
+Doudna	dudna	name	bio		doudna|dudna
+Charpentier	şarpantiye	name	bio		charpentier|şarpantiye
+Pasteur	pastör	name	bio		pasteur|pastör
+Fleming	fleming	name	bio		fleming
+Koch	koh	name	bio		koch|koh
+Hooke	huk	name	bio		hooke|huk
+Leeuwenhoek	levenhuk	name	bio		leeuwenhoek|levenhuk
+Linnaeus	line	name	bio	lineus	linnaeus
+Casgevy	kasgevi	name	health		casgevy|kasgevi
+EKG	e ke ge	abbr	health		ekg|e ke ge
+EEG	e e ge	abbr	health		eeg
+EMG	e me ge	abbr	health		emg
+MR	emar	abbr	health	me re	mr|emar|em ar
+MRI	em ar ay	abbr	health		mri
+BT	be te	abbr	health		bt|be te
+PET	pet	abbr	health		pet
+pH	pe ha	abbr	chem		ph|pe ha
+IgG	i ge ge	abbr	health		igg
+IgE	i ge e	abbr	health		ige
+IgM	i ge me	abbr	health		igm
+HbA1c	ha be a bir ce	abbr	health		hba1c
+LDL	le de le	abbr	health		ldl
+HDL	ha de le	abbr	health		hdl
+BMI	be me i	abbr	health		bmi
+DSÖ	de se ö	abbr	health		dsö|de se ö
+WHO	dünya sağlık örgütü	translate	health		who|dünya sağlık örgütü
+FDA	ef de a	abbr	health	ef di ey	fda|ef de a|ef di ey
+NSAİİ	ne se a i i	abbr	health		nsaii
+ACE	a ce e	abbr	health		ace|a ce e
+SSS	se se se	abbr	health		sss
+KOAH	koah	abbr	health		koah
+H2O	ha iki o	abbr	chem		h2o|ha iki o
+CO2	ce o iki	abbr	chem		co2|ce o iki|co 2
+O2	o iki	abbr	chem		o2|o iki
+NaCl	sodyum klorür	translate	chem		nacl|sodyum klorür
+HCl	ha ce le	abbr	chem		hcl
+NaOH	sodyum hidroksit	translate	chem		naoh|sodyum hidroksit
+CH4	metan	translate	chem		ch4|metan
+NH3	amonyak	translate	chem		nh3|amonyak
+Avogadro	avogadro	name	chem		avogadro
+Boltzmann	boltsman	name	phys		boltzmann|boltsman
+Planck	plank	name	phys		planck|plank
+Bohr	bor	name	phys		bohr|bor
+Rutherford	radırford	name	phys		rutherford
+Faraday	faradey	name	phys		faraday|faradey
+Einstein	aynştayn	name	phys		einstein|aynştayn
+Newton	nivtın	name	phys		newton|nivtın|niyutın
+Schrödinger	şrödinger	name	phys		schrödinger|şrödinger
+Heisenberg	hayzenberg	name	phys		heisenberg|hayzenberg
+Maxwell	maksvel	name	phys		maxwell|maksvel
+Fourier	furiye	name	math		fourier|furiye
+Laplace	laplas	name	math		laplace|laplas
+Euler	oyler	name	math		euler|oyler
+Gauss	gaus	name	math		gauss|gaus
+Bernoulli	bernuli	name	phys		bernoulli|bernuli
+Pascal	paskal	name	phys		pascal|paskal
+Joule	jul	name	phys		joule|jul
+Watt	vat	name	phys		watt|vat
+Ohm	om	name	phys		ohm|om
+Hertz	herts	name	phys		hertz|herts
+Coulomb	kulomb	name	phys		coulomb|kulomb
+Kelvin	kelvin	name	phys		kelvin
+Python	paytın	name	eng		python|paytın
+MATLAB	matlab	abbr	eng		matlab
+Excel	eksel	name	eng		excel|eksel
+CPU	ce pe u	abbr	eng		cpu|ce pe u
+GPU	ge pe u	abbr	eng		gpu|ge pe u
+RAM	ram	abbr	eng		ram
+USB	u se be	abbr	eng		usb
+LED	led	abbr	eng		led
+LCD	le ce de	abbr	eng		lcd
+PLC	pe le ce	abbr	eng		plc
+PID	pe i de	abbr	eng		pid
+API	a pe i	abbr	eng		api|a pe i
+HTML	ha te me le	abbr	eng		html
+GPS	ge pe se	abbr	eng		gps|ge pe se
+5G	beş ge	abbr	eng		5g|beş ge
+Wi-Fi	vay fay	name	eng		wi fi|wifi|vay fay
+Bluetooth	blutut	name	eng		bluetooth|blutut
+AI	yapay zekâ	translate	eng		ai|yapay zeka
+machine learning	makine öğrenmesi	translate	eng		machine learning|makine öğrenmesi
+deep learning	derin öğrenme	translate	eng		deep learning|derin öğrenme
+feedback	geri bildirim	translate	eng		feedback|geri bildirim
+software	yazılım	translate	eng		software|yazılım
+GSYH	ge se ye ha	abbr	econ		gsyh
+GSYİH	ge se ye i ha	abbr	econ		gsyih|gsyh
+GDP	gayri safi yurt içi hasıla	translate	econ		gdp
+TÜFE	tüfe	abbr	econ		tüfe
+ÜFE	üfe	abbr	econ		üfe
+TCMB	te ce me be	abbr	econ		tcmb
+IMF	ay em ef	abbr	econ	i me fe	imf|ay em ef
+OECD	o e ce de	abbr	econ		oecd
+ABD	a be de	abbr	econ		abd|a be de
+AB	a be	abbr	econ		ab|a be
+KDV	ka de ve	abbr	econ		kdv|ka de ve
+ÖTV	ö te ve	abbr	econ		ötv
+SGK	se ge ka	abbr	econ		sgk
+BIST	bist	abbr	econ		bist
+NASDAQ	nesdek	abbr	econ		nasdaq|nesdek
+CEO	si i o	abbr	econ		ceo|si i o
+KPI	ke pe i	abbr	econ		kpi
+SWOT	svot	abbr	econ		swot|svot
+B2B	bi tu bi	abbr	econ		b2b
+Keynes	keyns	name	econ		keynes|keyns
+Adam Smith	adım smit	name	econ		adam smith|adım smit
+laissez-faire	lese fer	name	econ		laissez faire|lese fer
+startup	startap	name	econ		startup|startap
+supply chain	tedarik zinciri	translate	econ		supply chain|tedarik zinciri
+DSM	de se me	abbr	psy		dsm
+IQ	ay kü	abbr	psy	i kü	iq|ay kü
+Freud	froyd	name	psy		freud|froyd
+Piaget	piyaje	name	psy		piaget|piyaje
+Maslow	maslov	name	psy		maslow|maslov
+Skinner	skinır	name	psy		skinner|skinır
+Vygotsky	vigotski	name	psy		vygotsky|vigotski
+Jung	yung	name	psy		jung|yung
+bp	baz çifti	unit	bio		bp|baz çifti
+kb	kilobaz	unit	bio		kb|kilobaz
+nt	nükleotit	unit	bio		nt|nükleotit
+nm	nanometre	unit	sci		nm|nanometre
+µm	mikrometre	unit	sci		mikrometre
+mg	miligram	unit	sci		mg|miligram
+kg	kilogram	unit	sci		kg|kilogram
+mL	mililitre	unit	sci		ml|mililitre
+km/h	kilometre bölü saat	unit	sci		km h|kilometre bölü saat
+m/s	metre bölü saniye	unit	sci		m s|metre bölü saniye
+°C	derece selsiyus	unit	sci		derece selsiyus|derece
+kWh	kilovat saat	unit	sci		kwh|kilovat saat
+mmHg	milimetre cıva	unit	sci		mmhg|milimetre cıva
+Hz	hertz	unit	sci		hz|hertz
